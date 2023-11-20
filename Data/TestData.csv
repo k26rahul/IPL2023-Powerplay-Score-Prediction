@@ -1,0 +1,117 @@
+match_id,venue,innings,batting_team,bowling_team,batsmen,bowlers,total_runs
+12,"Wankhede Stadium , Mumbai",1,Mumbai Indians,Chennai Super Kings,"RG Sharma, Ishan Kishan, Cameron Green","DL Chahar, TU Deshpande, Sisanda Magala, MJ Santner",61.0
+12,"Wankhede Stadium , Mumbai",2,Chennai Super Kings,Mumbai Indians,"DP Conway, AM Rahane, RD Gaikwad","JP Behrendorff, Mohd Arsad Khan, Cameron Green, PP Chawla",68.0
+13,"Narendra Modi Stadium, Ahmedabad",1,Gujarat Titans,Kolkata Knight Riders,"WP Saha, Shubman Gill, Sai Sudharsan","UT Yadav, SN Thakur, LH Ferguson, SP Narine, CV Varun",54.0
+13,"Narendra Modi Stadium, Ahmedabad",2,Kolkata Knight Riders,Gujarat Titans,"Rahmanullah Gurbaz, N Jagadeesan, Venkatesh Iyer, N Rana","Mohammed Shami, Joshua Little, AS Joseph",43.0
+14,"Rajiv Gandhi International Stadium, Hyderabad",1,Punjab Kings,Punjab Kings,"P Simran Singh,S Dhawan, DJM Short, Jitesh Sharma, SM Curran","B Kumar, M Jansen, T Natarajan",41.0
+14,"Rajiv Gandhi International Stadium, Hyderabad",2,Punjab Kings,Punjab Kings,"Harry Brook, MA Agarwal, RA Tripathi","SM Curran, Arshdeep Singh, Harpreet Brar, Nathan Ellis",34.0
+15,"M.Chinnaswamy Stadium, Bangalore",1,Royal Challengers Bangalore,Lucknow Super Giants,"F du Plessis, V Kohli","JD Unadkat, Avesh Khan, KH Pandya, MA Wood",56.0
+15,"M.Chinnaswamy Stadium, Bangalore",2,Lucknow Super Giants,Royal Challengers Bangalore,"Kyle Mayers, KL Rahul, DJ Hooda, KH Pandya, MP Stoinis","Mohammed Siraj, DJ Willey, WD Parnell",37.0
+16,"Arun Jaitley Stadium, Delhi",1,Delhi Capitals,Mumbai Indians,"DA Warner, PP Shaw, MK Pandey","JP Behrendorff, Mohd Arsad Khan, CJ Green, HR Shokeen, RP Meredith",51.0
+16,"Arun Jaitley Stadium, Delhi",2,Mumbai Indians,Delhi Capitals,"RG Sharma, Ishan Kishan","Mukesh Kumar, Mustafizur Rahman, A Nortje, Lalit Yadav, AR Patel",68.0
+17,"MA Chidambaram Stadium, Chennai",1,Rajasthan Royals,Chennai Super Kings,"YBK Jaiswal, JC Buttler, D Padikkal","Akash Singh, TU Deshpande, M Theekshana",57.0
+17,"MA Chidambaram Stadium, Chennai",2,Chennai Super Kings,Rajasthan Royals,"RD Gaikwad, DP Conway, AM Rahane","Sandeep Sharma, KR Sen, JD Holder, A Zampa, R Ashwin",45.0
+18,"Punjab Cricket Association IS Bindra Stadium,Chandigarh",1,Punjab Kings,Gujarat Titans,"P Simran Singh, DJM Short, S Dhawan","Mohammed Shami, Joshua Little, PBB Rajapaksa, AS Joseph",52.0
+18,"Punjab Cricket Association IS Bindra Stadium,Chandigarh",2,Gujarat Titans,Punjab Kings,"Shubman Gill, WP Saha, B Sai Sudarshan","Arshdeep Singh, K Rabada, Harpreet Brar, SM Curran",56.0
+19,"Eden Gardens, Kolkata",1,Sunrisers Hyderabad,Kolkata Knight Riders,"Harry Brook, MA Agarwal, RA Tripathi, AK Markram","UT Yadav, LH Ferguson, SP Narine, AD Russell, CV Varun",65.0
+19,"Eden Gardens, Kolkata",2,Kolkata Knight Riders,Sunrisers Hyderabad,"Rahmanullah Gurbaz, N Jagadeesan, Venkatesh Iyer, SP Narine, N Rana","B Kumar, M Jansen, T Natarajan, Umran Malik",62.0
+20,"M Chinnaswamy Stadium, Bengaluru",1,Royal Challengers Bangalore,Delhi Capitals,"F du Plessis, V Kohli, MK Lomror","A Nortje, AR Patel, Mustafizur Rahman, MR Marsh, Lalit Yadav",47.0
+20,"M Chinnaswamy Stadium, Bengaluru",2,Delhi Capitals,Royal Challengers Bangalore,"PP Shaw, DA Warner, MR Marsh","Mohammed Siraj,  WD Parnell",32.0
+21," Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",1,Lucknow Super Giants,Punjab Kings,"Kyle Mayers, KL Rahul","SM Curran, Arshdeep Singh, Harpreet Brar, DJM Short",49.0
+21," Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2,Punjab Kings,Lucknow Super Giants,"Atharva Taide, DJM Short, P Simran Singh, Harpreet Singh","Yudhvir Singh, MA Wood, Avesh Khan, K Gowtham",45.0
+22,"Wankhede Stadium, Mumbai",1,Kolkata Knight Riders,Mumbai Indians,"Rahmanullah Gurbaz, N Jagadeesan, Venkatesh Iyer, N Rana","Arjun Tendulkar, Cameron Green, Duan jansen, PP Chawla",57.0
+22,"Wankhede Stadium, Mumbai",2,Mumbai Indians,Kolkata Knight Riders,"RG Sharma, Ishan Kishan, SA Yadav","Arjun Tendulkar, Cameron Green, Duan jansen, PP Chawla",72.0
+23,"Narendra Modi Stadium, Ahmedabad",1,Gujarat Titans,Rajasthan Royals,"Shubman Gill, WP Saha, B Sai Sudarshan, HH Pandya","TA Boult, Sandeep Sharma, A Zampa, R Ashwin",42.0
+23,"Narendra Modi Stadium, Ahmedabad",2,Rajasthan Royals,Gujarat Titans,"YBK Jaiswal, JC Buttler, D Padikkal, SV Samson","Mohammed Shami, HH Pandya",26.0
+24," M.Chinnaswamy Stadium, Bengaluru ",1,Chennai Super Kings,Royal Challengers Bangalore,"DP Conway, RD Gaikwad, AM Rahane","Mohammed Siraj, WD Parnell, Vyshak Vijay Kumar",53.0
+24," M.Chinnaswamy Stadium, Bengaluru ",2,Royal Challengers Bangalore,Chennai Super Kings,"V Kohli, MK Lomror, F du Plessis, GJ Maxwell","Akash Singh, TU Deshpande, M Theekshana",75.0
+25," Rajiv Gandhi International Stadium, Hyderabad ",1,Mumbai Indians,Sunrisers Hyderabad,"RG Sharma, Ishan Kishan, Cameron Green","B Kumar, M Jansen, Washington Sundar, T Natarajan",53.0
+25," Rajiv Gandhi International Stadium, Hyderabad ",2,Sunrisers Hyderabad,Mumbai Indians,"Harry Brook, MA Agarwal, RA Tripathi, AK Markram","Arjun Tendulkar, JP Behrendorff, RP Meredith",42.0
+26,"Sawai Mansingh Stadium, Jaipur ",1,Lucknow Super Giants,Rajasthan Royals,"KL Rahul, Kyle Mayers","TA Boult, Sandeep Sharma, R Ashwin",37.0
+26,"Sawai Mansingh Stadium, Jaipur ",2,Rajasthan Royals,Lucknow Super Giants,"YBK Jaiswal, JC Buttler","Naveen Ul Haq,Yudhvir Singh,  Avesh Khan",47.0
+27,"Punjab Cricket Association IS Bindra Stadium, Mohali",1,Royal Challengers Bangalore,Punjab Kings,"F du Plessis, V Kohli","Arshdeep Singh, Harpreet Brar, Nathan Ellis, SM Curran",59.0
+27,"Punjab Cricket Association IS Bindra Stadium, Mohali",2,Punjab Kings,Royal Challengers Bangalore,"Atharva Taide, DJM Short, P Simran Singh, LS Livingstone, Harpreet Singh, SM Curran","Mohammed Siraj, WD Parnell, PWH de Silva, Vyshak Vijay Kumar",49.0
+28,"Arun Jaitley Stadium, Delhi ",1,Kolkata Knight Riders,Delhi Capitals,"Litton Das, JJ Roy, Venkatesh Iyer, N Rana, Mandeep Singh","I Sharma, Mukesh Kumar, A Nortje",35.0
+28,"Arun Jaitley Stadium, Delhi ",2,Delhi Capitals,Kolkata Knight Riders,"PP Shaw, DA Warner, MR Marsh","UT Yadav, SP Narine, AD Russell, CV Varun, K Khejroliya",61.0
+29,"MA Chidambaram Stadium, Chennai ",1,Sunrisers Hyderabad,Chennai Super Kings,"Harry Brook, Abhishek Sharma, RA Tripathi","Akash Singh, TU Deshpande, M Theekshana",45.0
+29,"MA Chidambaram Stadium, Chennai ",2,Chennai Super Kings,Sunrisers Hyderabad,"DP Conway, RD Gaikwad","B Kumar, M Jansen, AK Markram",60.0
+30,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",1,Gujarat Titans,Lucknow Super Giants,"Shubman Gill, WP Saha, HH  Pandya","Naveen Ul Haq, KH Pandya, Avesh Khan, Ravi Bishnoi",40.0
+30,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2,Lucknow Super Giants,Gujarat Titans,"KL Rahul, Kyle Mayers","Mohammed Shami, J Yadav, Rashid Khan, MM Sharma",53.0
+31,"Wankhede Stadium, Mumbai",1,Punjab Kings,Mumbai Indians,"Atharva Taide, DJM Short, P Simran Singh","Arjun Tendulkar, JP Behrendorff, Cameron Green, JC Archer, PP Chawla",58.0
+31,"Wankhede Stadium, Mumbai",2,Mumbai Indians,Punjab Kings,"RG Sharma, Ishan Kishan, Cameron Green","DJM Short, Arshdeep Singh, NT Ellis, SM Curran, Harpreet Brar",54.0
+32,"M.Chinnaswamy Stadium, Bengaluru",1,Royal Challengers Bangalore,Rajasthan Royals,"F du Plessis, V Kohli, Shahbaz Ahmed, GJ Maxwell","TA Boult, Sandeep Sharma, R Ashwin",62.0
+32,"M.Chinnaswamy Stadium, Bengaluru",2,Rajasthan Royals,Royal Challengers Bangalore,"JC Buttler, D Padikkal, YBK Jaiswal","Mohammed Siraj, DJ Willey, Vyshak Vijay Kumar, GJ Maxwell",47.0
+33,"Eden Gardens, Kolkata",1,Chennai Super Kings,Kolkata Knight Riders,"DP Conway, RD Gaikwad","UT Yadav, D Wiese, CV Varun, K Khejroliya",59.0
+33,"Eden Gardens, Kolkata",2,Kolkata Knight Riders,Chennai Super Kings,"N Jagadeesan, SP Narine, Venkatesh Iyer, N Rana","Akash Singh, TU Deshpande, M Theekshana",38.0
+34,"Rajiv Gandhi International Stadium, Hyderabad ",1,Delhi Capitals,Sunrisers Hyderabad,"DA Warner, SN Khan, MR Marsh, Phil Salt","B Kumar, M Jansen, Washington Sundar, T Natarajan",49.0
+34,"Rajiv Gandhi International Stadium, Hyderabad ",2,Sunrisers Hyderabad,Delhi Capitals,"Harry Brook, MA Agarwal, RA Tripathi","I Sharma, Mukesh Kumar, A Nortje, AR Patel",36.0
+35,"Narendra Modi Stadium, Ahmedabad",1,Gujarat Titans,Mumbai Indians,"Shubman Gill, WP Saha, HH  Pandya","Arjun Tendulkar, JP Behrendorff, RP Meredith, CJ Green",50.0
+35,"Narendra Modi Stadium, Ahmedabad",2,Mumbai Indians,Gujarat Titans,"RG Sharma, Ishan Kishan, Cameron Green","Mohammed Shami, HH Pandya, Rashid Khan",29.0
+36,"M.Chinnaswamy Stadium, Bengaluru ",1,Kolkata Knight Riders,Royal Challengers Bangalore,"JJ Roy, N Jagadeesan","Mohammed Siraj, DJ Willey, PWH de Silva, Shahbaz Ahmed",66.0
+36,"M.Chinnaswamy Stadium, Bengaluru ",2,Royal Challengers Bangalore,Kolkata Knight Riders,"F du Plessis, V Kohli, Shahbaz Ahmed, GJ Maxwell, MK Lomror","VG Arora, UT Yadav, Suyash Sharma,  CV Varun",58.0
+37,"Sawai Mansingh Stadium, Jaipur",1,Rajasthan Royals,Chennai Super Kings,"JC Buttler, YBK Jaiswal","Akash Singh, TU Deshpande, M Theekshana",64.0
+37,"Sawai Mansingh Stadium, Jaipur",2,Chennai Super Kings,Rajasthan Royals,"DP Conway, RD Gaikwad, AM Rahane","Sandeep Sharma, Kuldip Yadav, JD Holder, A Zampa, R Ashwin",42.0
+38,"Punjab Cricket Association IS Bindra Stadium, Mohali",1,Lucknow Super Giants,Punjab Kings,"KL Rahul, Kyle Mayers, MP Stoinis, A Badoni","Gurnoor Singh Brar, Arshdeep Singh, K Rabada, Sikandar Raza",74.0
+38,"Punjab Cricket Association IS Bindra Stadium, Mohali",2,Punjab Kings,Lucknow Super Giants,"Atharva Taide, S Dhawan,P Simran Singh, Sikandar Raza","MP Stoinis, Naveen Ul Haq, Kyle Mayers, A Badoni, Avesh Khan, ",55.0
+39,"Eden Gardens, Kolkata",1,Kolkata Knight Riders,Gujarat Titans,"N Jagadeesan, Venkatesh Iyer, Rahmanullah Gurbaz, SN Thakur","Mohammed Shami, Rashid Khan, HH Pandya",61.0
+39,"Eden Gardens, Kolkata",2,Gujarat Titans,Kolkata Knight Riders,"Shubman Gill, WP Saha, HH  Pandya","Harshit Rana, CV Varun, AD Russell",52.0
+40,"Arun Jaitley Stadium, Delhi",1,Sunrisers Hyderabad,Delhi Capitals,"Abhishek Sharma, MA Agarwal, RA Tripathi, AK Markram","I Sharma, Mukesh Kumar, A Nortje, MR Marsh",62.0
+40,"Arun Jaitley Stadium, Delhi",2,Delhi Capitals,Sunrisers Hyderabad,"DA Warner, Phil Salt, MR Marsh","B Kumar, Akeal Hosein, T Natarajan",57.0
+41,"MA Chidambaram Stadium, Chennai",1,Chennai Super Kings,Punjab Kings,"DP Conway, RD Gaikwad","Arshdeep Singh, K Rabada, SM Curran, RD Chahar",57.0
+41,"MA Chidambaram Stadium, Chennai",2,Punjab Kings,Chennai Super Kings,"Atharva Taide, S Dhawan,P Simran Singh","Akash Singh, TU Deshpande, M Theekshana",62.0
+42,"Wankhede Stadium, Mumbai",1,Rajasthan Royals,Mumbai Indians,"JC Buttler, YBK Jaiswal","CJ Green, JC Archer, RP Meredith, PP Chawla",65.0
+42,"Wankhede Stadium, Mumbai",2,Mumbai Indians,Rajasthan Royals,"RG Sharma, Ishan Kishan, Cameron Green","TA Boult, Sandeep Sharma, R Ashwin",58.0
+43,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",1,Royal Challengers Bangalore,Lucknow Super Giants,"F du Plessis, V Kohli","KH Pandya, MP Stoinis, Naveen Ul Haq, Ravi Bishnoi",42.0
+43,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2,Lucknow Super Giants,Royal Challengers Bangalore,"A Badoni, Kyle Mayers, KH Pandya, DJ Hooda,MP Stoinis","Mohammed Siraj, JR Hazlewood, GJ Maxwell,PWH de Silva",34.0
+44,"Narendra Modi Stadium, Ahmedabad",1,Delhi Capitals,Gujarat Titans,"DA Warner, Phil Salt, Pk Garg, RR Rossouw, MK Pandey, AR Patel, Aman Hakim Khan","Mohammed Shami, HH Pandya, Joshua Little",28.0
+44,"Narendra Modi Stadium, Ahmedabad",2,Gujarat Titans,Delhi Capitals,"Shubman Gill, WP Saha, HH  Pandya, V Shankar, DA Miller","KK Ahmed, I Sharma, A Nortje",31.0
+45,"Punjab Cricket Association IS Bindra Stadium, Mohali ",1,Punjab Kings,Mumbai Indians,"S Dhawan,P Simran Singh, DJM Short","CJ Green, JC Archer, Arsad Khan, PP Chawla",50.0
+45,"Punjab Cricket Association IS Bindra Stadium, Mohali ",2,Mumbai Indians,Punjab Kings,"RG Sharma, Ishan Kishan, Cameron Green, SA Yadav","R Dhawan, Arshdeep Singh, SM Curran, NT Ellis",54.0
+47,"Rajiv Gandhi International Stadium, Hyderabad",1,Kolkata Knight Riders,Sunrisers Hyderabad,"JJ Roy, Rahmanullah Gurbaz, VR Iyer, N Rana, RK Singh","B Kumar, M Jansen, Kartik Tyagi",49.0
+47,"Rajiv Gandhi International Stadium, Hyderabad",2,Sunrisers Hyderabad,Kolkata Knight Riders,"Abhishek Sharma, MA Agarwal, RA Tripathi, AK Markram, Harry Brook","Harshit Rana, VG Arora, SN Thakur, AD Russell",53.0
+48,"Sawai Mansingh Stadium, Jaipur",1,Rajasthan Royals,Gujarat Titans,"JC Buttler, YBK Jaiswal, SV Samson, D Padikkal","Mohammed Shami, HH Pandya, Rashid Khan",50.0
+48,"Sawai Mansingh Stadium, Jaipur",2,Gujarat Titans,Rajasthan Royals,"Shubman Gill, WP Saha","TA Boult, Sandeep Sharma",49.0
+49,"MA Chidambaram Stadium, Chennai",1,Mumbai Indians,Chennai Super Kings,"Ishan Kishan, Cameron Green, RG Sharma, SA Yadav, Nehal Wadhera","DL Chahar, TU Deshpande",34.0
+49,"MA Chidambaram Stadium, Chennai",2,Chennai Super Kings,Mumbai Indians,"DP Conway, RD Gaikwad, AM Rahane","CJ Green, JC Archer, Arsad Khan, PP Chawla",55.0
+50,"Arun Jaitley Stadium, Delhi",1,Royal Challengers Bangalore,Delhi Capitals,"F du Plessis, V Kohli","KK Ahmed, AR Patel, I Sharma, Mukesh Kumar",51.0
+50,"Arun Jaitley Stadium, Delhi",2,Delhi Capitals,Royal Challengers Bangalore,"DA Warner, Phil Salt, MR Marsh","Mohammed Siraj, JR Hazlewood, GJ Maxwell,PWH de Silva",70.0
+51,"Narendra Modi Stadium, Ahmedabad",1,Gujarat Titans,Lucknow Super Giants,"Shubman Gill, WP Saha","Mohsin Khan, KH Pandya, Yash Thakur, Avesh Khan",78.0
+51,"Narendra Modi Stadium, Ahmedabad",2,Lucknow Super Giants,Gujarat Titans,"Kyle Mayers, Q de kock","Mohammed Shami, HH Pandya, Rashid Khan, Noor Ahmed",72.0
+52,"Sawai Mansingh Stadium, Jaipur",1,Rajasthan Royals,Sunrisers Hyderabad,"JC Buttler, YBK Jaiswal, SV Samson","B Kumar, M Jansen, T Natarajan",61.0
+52,"Sawai Mansingh Stadium, Jaipur",2,Sunrisers Hyderabad,Rajasthan Royals,"Abhishek Sharma, Anmolpreet Singh, RA Tripathi","Sandeep Sharma, Kuldip Yadav, R Ashwin, YS Chahal",52.0
+53,"Eden Gardens, Kolkata",1,Punjab Kings,Kolkata Knight Riders,"S Dhawan, P Simran Singh, PBB Rajapaksa, LS Livingstone, JM Sharma","VG Arora, Harshit Rana, AD Russell, CV Varun",58.0
+53,"Eden Gardens, Kolkata",2,Kolkata Knight Riders,Punjab Kings,"JJ Roy, Rahmanullah Gurbaz, N Rana","R Dhawan, Arshdeep Singh, SM Curran, NT Ellis",52.0
+54,"Wankhede Stadium, Mumbai",1,Royal Challengers Bangalore,Mumbai Indians,"F du Plessis, V Kohli, Anuj Rawat, GJ Maxwell","JP Behrendroff, PP Chawla, CJ Green",56.0
+54,"Wankhede Stadium, Mumbai",2,Mumbai Indians,Royal Challengers Bangalore,"Ishan Kishan, RG Sharma, SA Yadav, Nehal Wadhera","Mohammed Siraj, JR Hazlewood, PWH de Silva, Vyshak Vijay Kumar",62.0
+55,"MA Chidambaram Stadium, Chennai",1,Chennai Super Kings,Delhi Capitals,"DP Conway, RD Gaikwad, AM Rahane","KK Ahmed, AR Patel, I Sharma, Lalit Yadav",49.0
+55,"MA Chidambaram Stadium, Chennai",2,Delhi Capitals,Chennai Super Kings,"DA Warner, Phil Salt, MR Marsh, MK Pandey, RR Rossouw","DL Chahar, TU Deshpande, M Theekshana",47.0
+56,"Eden Gardens, Kolkata",1,Kolkata Knight Riders,Rajasthan Royals,"JJ Roy, Rahmanullah Gurbaz, N Rana, VR Iyer","TA Boult, Sandeep Sharma, R Ashwin",37.0
+56,"Eden Gardens, Kolkata",2,Rajasthan Royals,Kolkata Knight Riders,"JC Buttler, YBK Jaiswal, SV Samson","N Rana, Harshit Rana, SN Thakur, CV Varun",78.0
+57,"Wankhede Stadium, Mumbai",1,Mumbai Indians,Gujarat Titans,"Ishan Kishan, RG Sharma","Mohammed Shami, MM Sharma, Rashid Khan, Noor Ahmad",61.0
+57,"Wankhede Stadium, Mumbai",2,Gujarat Titans,Mumbai Indians,"Shubman Gill, WP Saha, HH Pandya, V Shankar, DA Miller","JP Behrendroff, Akash Madhwal, CJ Jordan",48.0
+58,"Rajiv Gandhi International Stadium, Hyderabad",1,Sunrisers Hyderabad,Lucknow Super Giants,"Abhishek Sharma, Anmolpreet Singh, RA Tripathi, AK Markram","Yudhvir Singh Charak, Kyle Mayers, KH Pandya, Avesh Khan, Yash Thakur",56.0
+58,"Rajiv Gandhi International Stadium, Hyderabad",2,Lucknow Super Giants,Sunrisers Hyderabad,"Kyle Mayers, Q de kock, PN Mankad","B Kumar, Fazalhaq Farooqi, GD Phillips, T Natarajan",30.0
+59,"Arun Jaitley Stadium, Delhi",1,Punjab Kings,Delhi Capitals,"S Dhawan, P Simran Singh, LS Livingstone, JM Sharma, SM Curran ","KK Ahmed, AR Patel, I Sharma, Lalit Yadav",46.0
+59,"Arun Jaitley Stadium, Delhi",2,Delhi Capitals,Punjab Kings,"DA Warner, Phil Salt","R Dhawan, SM Curran, Harpreet Brar ,Arshdeep Singh, SM Curran, NT Ellis",65.0
+60,"Sawai Mansingh Stadium, Jaipur",1,Royal Challengers Bangalore,Rajasthan Royals,"F du Plessis, V Kohli","Sandeep Sharma, A Zampa, YS Chahal, R Ashwin",42.0
+60,"Sawai Mansingh Stadium, Jaipur",2,Rajasthan Royals,Royal Challengers Bangalore,"JC Buttler, YBK Jaiswal, SV Samson, D Padikkal, Joe Root, SO Hetmyer, Dhruv Jurel","Mohammed Siraj, WD Parnell, DAJ Bracewell",28.0
+61,"MA Chidambaram Stadium, Chennai",1,Chennai Super Kings,Kolkata Knight Riders,"DP Conway, RD Gaikwad, AM Rahane","VG Arora, Harshit Rana, CV Varun",52.0
+61,"MA Chidambaram Stadium, Chennai",2,Kolkata Knight Riders,Chennai Super Kings,"JJ Roy, Rahmanullah Gurbaz, N Rana, VR Iyer, RK Singh","DL Chahar, TU Deshpande",46.0
+62,"Narendra Modi Stadium, Ahmedabad",1,Gujarat Titans,Sunrisers Hyderabad,"Shubman Gill, WP Saha, B Sai Sudarshan","B Kumar, M Jansen, Fazalhaq Farooqi, T Natarajan",65.0
+62,"Narendra Modi Stadium, Ahmedabad",2,Sunrisers Hyderabad,Gujarat Titans,"Abhishek Sharma, Anmolpreet Singh, AK Markram, RA Tripathi,  H Klaasen, Sanvir Singh","Mohammed Shami, Yash Dayal, Rashid Khan",45.0
+63,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",1,Lucknow Super Giants,Mumbai Indians,"Q de kock, DJ Hooda, PN Mankad,KH Pandya, ","JP Behrendroff, CJ Jordan, HR Shokeen",35.0
+63,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2,Mumbai Indians,Lucknow Super Giants,"RG Sharma, I Kishan","KH Pandya, Mohsin Khan, Yash Thakur, Naveen Ul Haq",58.0
+64,"Himachal Pradesh Cricket Association Stadium, Dharamsala",1,Delhi Capitals,Punjab Kings,"DA Warner, Phil Salt","SM Curran, K Rabada, Arshdeep Singh, NT Ellis",61.0
+64,"Himachal Pradesh Cricket Association Stadium, Dharamsala",2,Punjab Kings,Delhi Capitals,"S Dhawan, P Simran Singh, Atharva Taide","KK Ahmed, I Sharma, A Nortje, Mukesh Kumar",47.0
+65,"Rajiv Gandhi International Stadium, Hyderabad",1,Sunrisers Hyderabad,Royal Challengers Bangalore,"RA Tripathi, Abhishek Sharma, H Klaasen, AK Markram","Mohammed Siraj, WD Parnell, DAJ Bracewell, Shahbaz Ahmed",49.0
+65,"Rajiv Gandhi International Stadium, Hyderabad",2,Royal Challengers Bangalore,Sunrisers Hyderabad,"F du Plessis, V Kohli","B Kumar, T Natarajan, Kartik Tyagi, Abhishek Sharma",64.0
+66,"Himachal Pradesh Cricket Association Stadium, Dharamsala",1,Punjab Kings,Rajasthan Royals,"S Dhawan, P Simran Singh, Atharva Taide, LS Livingstone, SM Curran ","TA Boult, Sandeep Sharma, Navdeep Saini, A Zampa",48.0
+66,"Himachal Pradesh Cricket Association Stadium, Dharamsala",2,Rajasthan Royals,Punjab Kings,"YBK Jaiswal, JC Buttler, D Padikkal","SM Curran, K Rabada, Arshdeep Singh, NT Ellis",57.0
+67,"Arun Jaitley Stadium, Delhi",1,Chennai Super Kings,Delhi Capitals,"DP Conway, RD Gaikwad","KK Ahmed, Lalit Yadav, AR Patel, A Nortje, C Sakariya",52.0
+67,"Arun Jaitley Stadium, Delhi",2,Delhi Capitals,Chennai Super Kings,"DA Warner, PP Shaw, Phil Salt, RR Rossouw, Yash Dhull","DL Chahar, TU Deshpande, M Theekshana",34.0
+68,"Eden Gardens, Kolkata",1,Lucknow Super Giants,Kolkata Knight Riders,"Q de kock, Karan Sharma, PN Mankad","VG Arora, Harshit Rana, CV Varun",54.0
+68,"Eden Gardens, Kolkata",2,Kolkata Knight Riders,Lucknow Super Giants,"JJ Roy, VR Iyer, N Rana","Mohsin Khan, Naveen Ul Haq, KH Pandya, K Gowtham",61.0
+69,"Wankhede Stadium, Mumbai",1,Sunrisers Hyderabad,Mumbai Indians,"MA Agarwal, Vivrant Sharma","JP Behrendroff, Cameron Green, Akash Madhwal, PP Chawla",53.0
+69,"Wankhede Stadium, Mumbai",2,Mumbai Indians,Sunrisers Hyderabad,"RG Sharma, I Kishan, Cameron Green","B Kumar, Nitish Kumar Reddy, Mayank Dagar, Kartik Tyagi",60.0
+70,"M.Chinnaswamy Stadium, Bengaluru",1,Royal Challengers Bangalore,Gujarat Titans,"F du Plessis, V Kohli","Mohammed Shami, Yash Dayal, Rashid Khan, Noor Ahmad",62.0
+70,"M.Chinnaswamy Stadium, Bengaluru",2,Gujarat Titans,Royal Challengers Bangalore,"Shubman Gill, WP Saha, V Shankar","Mohammed Siraj, WD Parnell, Vyshak Vijay Kumar",51.0
